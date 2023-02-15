@@ -1,5 +1,6 @@
 # Group-Project-01
 Created by David, Reggie & Niko
+
 Travel website to compare nightly rates between hotels and airbnbs.
 - - - - 
 deployment link 
